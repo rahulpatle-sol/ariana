@@ -1,0 +1,14 @@
+edge-tts==6.1.12
+requests==2.31.0
+SpeechRecognition==3.10.4
+sounddevice==0.4.6
+soundfile==0.12.1
+Pillow==10.4.0
+mss==9.0.1
+reportlab==4.2.2
+python-pptx==1.0.2
+psutil==6.0.0
+flask==3.0.3
+twilio==9.3.3
+numpy==1.26.4
+pygame==2.6.1
